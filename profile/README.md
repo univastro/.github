@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://univastro.net/wp-content/uploads/2026/04/univastro-wordmark-theme-light.svg" alt="Univastro" width="400" />
+<img src="https://univastro.net/wp-content/uploads/2026/04/univastro-wordmark-theme.svg" alt="Univastro" width="400" />
 
-### Self-Hosting & Tutorials auf Deutsch
+
+**Self-Hosting & Tutorials auf Deutsch**
 
 [![Website](https://img.shields.io/badge/Website-univastro.net-4f87ff?style=flat-square&labelColor=0f1117)](https://univastro.net)
 [![Nextcloud](https://img.shields.io/badge/Cloud-cloud.univastro.net-4f87ff?style=flat-square&labelColor=0f1117)](https://cloud.univastro.net)
 [![LimeSurvey](https://img.shields.io/badge/Umfragen-umfrage.univastro.net-4f87ff?style=flat-square&labelColor=0f1117)](https://umfrage.univastro.net)
-[![Discord](https://img.shields.io/badge/Discord-Community-4f87ff?style=flat-square&labelColor=0f1117&logo=discord&logoColor=white)](https://univastro.net)
+[![Discord](https://img.shields.io/badge/Discord-Community-4f87ff?style=flat-square&labelColor=0f1117&logo=discord&logoColor=white)](https://discord.gg/h8brdZywpk)
 
 </div>
 
@@ -73,9 +74,13 @@ Univastro lebt von der Community. Du kannst dich beteiligen, indem du:
 
 ## 📬 Kontakt
 
-🌐 **Website** &nbsp;·&nbsp; [univastro.net](https://univastro.net)  
-💬 **Community** &nbsp;·&nbsp; Discord (Link auf der Website)  
+<div align="left">
+
+🌐 **Website** &nbsp;·&nbsp; [univastro.net](https://univastro.net)
+💬 **Community** &nbsp;·&nbsp; [Discord](https://discord.gg/h8brdZywpk)
 ☁️ **Cloud** &nbsp;·&nbsp; [cloud.univastro.net](https://cloud.univastro.net)
+
+</div>
 
 ---
 
